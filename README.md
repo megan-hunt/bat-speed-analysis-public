@@ -1,5 +1,7 @@
 # Project Overview
 
+This Shiny app was designed for the 2024 Women in Sports Data Hackathon. This hackathon asked participants to create projects & analysis based on bat tracking data.
+
 ## Description & Purpose
 
 This Shiny app was designed to allow users to determine the most likely pitch speed range (or pitch type) during a chosen game scenario and then analyze the ideal bat swing speed range that will optimize the batter's chances of hitting the ball into play. 
